@@ -38,12 +38,12 @@
             </div>
           </div>
           <div class="row mt-3 mb-1">
-            <div class="col my-2 px-4">
-              <span
-                class="px-2 me-2 small rounded projectCategory"
-                v-for="category in projectName.categoryLists"
-                :key="category.id"
-              >
+            <div
+              class="col-3 my-1"
+              v-for="category in projectName.categoryLists"
+              :key="category.id"
+            >
+              <span class="px-2 py-1 small rounded projectCategory">
                 {{ category.name }}
               </span>
             </div>
@@ -74,7 +74,7 @@ export default {
   components: {
     LayoutView,
   },
-  
+
   data() {
     return {
       searchValue: "",
