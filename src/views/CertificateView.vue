@@ -23,7 +23,7 @@
         <!-- End SearchBox -->
 
         <div
-          class="col-12 mb-5 d-flex flex-column align-items-center justify-content-center"
+          class="col-12 my-5 d-flex flex-column align-items-center justify-content-center"
           v-for="(item, index) in searchCertificate"
           :key="index"
         >
