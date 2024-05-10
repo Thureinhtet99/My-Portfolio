@@ -7,7 +7,11 @@
       >
         <div class="row mt-5">
           <div class="col-12 text-center">
-            <img src="images/myProfile.jpg" alt="" class="object-fit-cover myProfile" />
+            <img
+              src="images/myProfile.jpg"
+              alt=""
+              class="object-fit-cover myProfile"
+            />
             <h2 class="text-white">Thurein Htet</h2>
             <p class="text-white">Web Developer</p>
           </div>
@@ -68,7 +72,8 @@
                 target="_blank"
                 class="text-white text-decoration-none"
               >
-                <i class="fa-brands fa-github me-2"></i><span class="small">Github</span>
+                <i class="fa-brands fa-github me-2"></i
+                ><span class="small">Github</span>
               </a>
             </div>
             <div class="col-6 d-flex flex-column align-items-start gap-2">
@@ -78,11 +83,12 @@
                 target="_blank"
                 class="text-white text-decoration-none"
               >
-                <i class="fa-brands fa-linkedin me-2"></i><span class="small">Linkedin</span>
+                <i class="fa-brands fa-linkedin me-2"></i
+                ><span class="small">Linkedin</span>
               </a>
               <a
                 download="My Resume"
-                href="/images/CV resume.pdf"
+                href="/images/CV resume form.pdf"
                 title="Download CV"
                 class="text-decoration-none text-white"
                 data-bs-toggle="tooltip"
@@ -90,7 +96,8 @@
                 data-bs-custom-class="custom-tooltip"
                 data-bs-title="This top tooltip is themed via CSS variables."
               >
-                <i class="fa-solid fa-download me-2"></i><span class="small">Download CV</span>
+                <i class="fa-solid fa-download me-2"></i
+                ><span class="small">Download CV</span>
               </a>
             </div>
           </div>
