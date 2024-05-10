@@ -23,7 +23,7 @@
         class="div3 py-4 d-flex flex-column text-center justify-content-center align-items-center rounded-3 animate__animated animate__zoomIn"
       >
         <section class="">
-          <span class="fs-2 text-white me-1"> 1 &nbsp;&frac12; </span>
+          <span class="fs-2 text-white me-1"> 2 </span>
           <span class="text-white">
             <small> Years </small>
           </span>
@@ -82,7 +82,7 @@
           </span>
         </section>
         <img
-          src="/images/featuredPhoto.png"
+          src="/images/ProjectPreview.png"
           alt=""
           class="mt-5 featuredImg rounded-top"
         />

@@ -82,7 +82,7 @@ export default {
         {
           id: 1,
           name: "academic center",
-          image: require("/public/images/featuredPhoto.png"),
+          image: require("/public/images/ProjectPreview.png"),
           categoryLists: [
             { id: 1, name: "Laravel" },
             { id: 2, name: "Vue.js" },
